@@ -2,7 +2,7 @@ name: Greeting from SiHongYU
 on: push
 
 jobs: 
-  my-jon:
+  my-job:
       name: My Job
       runs-on: ubuntu-lastest
       steps:
