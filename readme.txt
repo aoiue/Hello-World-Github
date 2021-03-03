@@ -1,6 +1,1 @@
-#include<stdio.h>
-
-int main(void){
-  printf("Hello World Github from SiHongYU");
-  return 0;
- }
+This is a demo project of Github Actions for CSCI3250, created by SiHongYU(aoiue).
